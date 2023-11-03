@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top:50 px;
+   width: 1000px;
+    /*margin-left:auto;
+    margin-right:auto;*/
+    margin: 50 px auto 0;
+}
+ .gradient {
+    background:linear-gradient(90deg,rgba(155,81,224,.6));
+ }
+   .btn {
+    padding: 10px 20px;
+    border-radius:25px;
+    color:blue
+    text-decoration:none;
+   }
+    
+   
+.left-bar {
+    width: 200px;
+    float: left;
+    
+}
+.content {
+    widht: 880px;
+    float: left;
+
+}
+
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: rosybrown;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+ .clear {
+    clear: both;
+ }
+
+.box { 
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    /*margin: 10px;*/
+    margin-right: 10px;
+    /*margin-top: 10px;;
+    margin-left: 10px;
+    margin-bottom: 10px;*/
+    float: left;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+
+
+
+/* css*/
+
+/* class->.text-red {} */
+/* id -> #id-bilgisi {} */
+
+/* css selectors*/
+
+/*
+li:first-child {
+   color:green;
+}
+
+li:last-child {
+  color:aqua;
+}
+*/
+
+
+/*
+li:nth-child(odd) {
+   color:red; 
+}
+
+li:nth-child(even) {
+    background:blue;
+}
+
+
+li:nth-child(2n-1) {
+    color:red;
+}
+
+
+.color-blue.fw-normal {
+    color:blue;
+    font-weight:normal;
+}
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    color:#e9adad
+}
+
+h1 {
+    font-size:30px;
+}
+
+
+p{font-size:20 px;
+
+}
+
+#first-article {
+    font-size: 40px;
+}
+
+.text-red {
+    color:rgb(253, 5, 5);
+}
+
+.fs-14 {
+      font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
